@@ -1,3 +1,19 @@
+## Environment and commands
+
+- Selected language: Python.
+- Runtime: CPython 3.14.3.
+- Operating system: macOS on Apple MacBook Air.
+- CPU and RAM: not recorded.
+- No third-party packages are required.
+- Setup: `python3 tools/run.py --setup` — PASS.
+- Own tests: `python3 -m unittest discover -s tests/student -v` — 7 tests passed.
+- Public checker: `python3 tools/run.py --check` — 44 public cases passed.
+- Git branch: main.
+
+The implementation was provided by a fellow student.
+I transferred the project into my own repository, configured
+my Git identity, executed the public and student tests,
+and checked the results.
 # Assignment 4 — analysis
 
 ## Environment and commands
